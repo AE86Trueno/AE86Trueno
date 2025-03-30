@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a senior Cloud and Platform Engineer. I'm passionate in building AWS Infrastructure using Github Actions as my CI/CD. My main IaC tool are Terraform and Cloudformation.
 
 ## Profile Views
 
