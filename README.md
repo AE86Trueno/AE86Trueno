@@ -1,9 +1,10 @@
 ## Hi there 👋
-I'm a senior Cloud and Platform Engineer. I'm passionate in building AWS Infrastructure using Github Actions as my CI/CD. My main IaC tool are Terraform and Cloudformation.
+Welcome to my Github corner. I'm passionate in building AWS Infrastructure using Github Actions as my CI/CD. My main IaC tool are Terraform and Cloudformation.
 
 ## Profile Views
 
 <h2 align="center"> <img src="https://komarev.com/ghpvc/?username=AE86trueno" alt="Andrew" /> <h2>
+
 
 <!--
 **AE86Trueno/AE86Trueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
